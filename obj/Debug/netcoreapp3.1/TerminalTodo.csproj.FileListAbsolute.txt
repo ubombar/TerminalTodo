@@ -1,0 +1,11 @@
+/home/ubombar/Documents/Development/TerminalTodo/bin/Debug/netcoreapp3.1/TerminalTodo
+/home/ubombar/Documents/Development/TerminalTodo/bin/Debug/netcoreapp3.1/TerminalTodo.deps.json
+/home/ubombar/Documents/Development/TerminalTodo/bin/Debug/netcoreapp3.1/TerminalTodo.runtimeconfig.json
+/home/ubombar/Documents/Development/TerminalTodo/bin/Debug/netcoreapp3.1/TerminalTodo.runtimeconfig.dev.json
+/home/ubombar/Documents/Development/TerminalTodo/bin/Debug/netcoreapp3.1/TerminalTodo.dll
+/home/ubombar/Documents/Development/TerminalTodo/bin/Debug/netcoreapp3.1/TerminalTodo.pdb
+/home/ubombar/Documents/Development/TerminalTodo/obj/Debug/netcoreapp3.1/TerminalTodo.csprojAssemblyReference.cache
+/home/ubombar/Documents/Development/TerminalTodo/obj/Debug/netcoreapp3.1/TerminalTodo.AssemblyInfoInputs.cache
+/home/ubombar/Documents/Development/TerminalTodo/obj/Debug/netcoreapp3.1/TerminalTodo.AssemblyInfo.cs
+/home/ubombar/Documents/Development/TerminalTodo/obj/Debug/netcoreapp3.1/TerminalTodo.dll
+/home/ubombar/Documents/Development/TerminalTodo/obj/Debug/netcoreapp3.1/TerminalTodo.pdb
